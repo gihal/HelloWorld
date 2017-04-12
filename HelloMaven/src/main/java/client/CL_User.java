@@ -45,4 +45,11 @@ public class CL_User {
         this.state = state;
     }
 
+    @Override
+    public String toString() {
+        return "CL_User{" + "id=" + id + ", userName=" + userName + ", state=" + state + '}';
+    }
+    
+    
+
 }
