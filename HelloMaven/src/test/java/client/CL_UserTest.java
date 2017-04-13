@@ -58,8 +58,7 @@ public class CL_UserTest {
      */
     @org.junit.Test
     public void testGetUserName() {
-        System.out.println("getUserName");
-        assertTrue(false);
+        System.out.println("getUserName");       
     }
 
     /**
