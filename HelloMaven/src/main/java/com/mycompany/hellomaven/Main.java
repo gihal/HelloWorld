@@ -27,6 +27,7 @@ public class Main {
             clUsers.add(new CL_User(counter, user, user));
             counter++;
         }
+        d
         for (CL_User clUser : clUsers) {
             System.out.println(clUser);
         }
