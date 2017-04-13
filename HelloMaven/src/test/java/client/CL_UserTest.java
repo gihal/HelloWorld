@@ -51,6 +51,7 @@ public class CL_UserTest {
     @org.junit.Test
     public void testSetId() {
         System.out.println("setId");
+        assertTrue(1==2);
     }
 
     /**
