@@ -8,7 +8,6 @@ package com.mycompany.hellomaven;
 import client.CL_User;
 import java.util.ArrayList;
 import java.util.List;
-import sun.util.cldr.CLDRLocaleProviderAdapter;
 
 /**
  *
