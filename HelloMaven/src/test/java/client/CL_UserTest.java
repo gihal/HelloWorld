@@ -50,8 +50,7 @@ public class CL_UserTest {
      */
     @org.junit.Test
     public void testSetId() {
-        System.out.println("setId");
-        assertTrue(1==2);
+        System.out.println("setId");        
     }
 
     /**
@@ -60,6 +59,7 @@ public class CL_UserTest {
     @org.junit.Test
     public void testGetUserName() {
         System.out.println("getUserName");
+        assertTrue(false);
     }
 
     /**
